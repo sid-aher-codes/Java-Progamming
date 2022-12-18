@@ -1,2 +1,2 @@
-# first_code_java
+# Java Programming
 My first Hello_World program in Java.
